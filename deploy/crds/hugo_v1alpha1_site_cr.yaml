@@ -1,0 +1,7 @@
+apiVersion: hugo.sahli.net/v1alpha1
+kind: Site
+metadata:
+  name: example-site
+spec:
+  # Add fields here
+  size: 5
